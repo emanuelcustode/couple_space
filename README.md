@@ -64,4 +64,4 @@ Das Projekt befindet sich aktuell in der aktiven Entwicklung.
 
 ## 👨‍💻 Entwickler
 
-Emanuel — [@deinGitHub](https://github.com/emanuelcustode)
+Emanuel — [@GitHub](https://github.com/emanuelcustode)
