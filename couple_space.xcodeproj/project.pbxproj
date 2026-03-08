@@ -7,12 +7,36 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		88675A612F5C44B000FB528E /* couple_space.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = couple_space.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		88675A612F5C44B000FB528E /* couple_space.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = couple_space.app; path = /Users/emanuel/Desktop/couple_space/couple_space/build/Debug/couple_space.app; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		88054CBB2F5DCFC500AE8410 /* Exceptions for "couple_space" folder in "couple_space" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				ReadMe.md,
+			);
+			target = 88675A602F5C44B000FB528E /* couple_space */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		88054CBC2F5DCFC500AE8410 /* Exceptions for "couple_space" folder in "Compile Sources" phase from "couple_space" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 88675A5D2F5C44B000FB528E /* Sources */;
+			membershipExceptions = (
+				ReadMe.md,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		88675A632F5C44B000FB528E /* couple_space */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				88054CBB2F5DCFC500AE8410 /* Exceptions for "couple_space" folder in "couple_space" target */,
+				88054CBC2F5DCFC500AE8410 /* Exceptions for "couple_space" folder in "Compile Sources" phase from "couple_space" target */,
+			);
 			path = couple_space;
 			sourceTree = "<group>";
 		};
@@ -33,16 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				88675A632F5C44B000FB528E /* couple_space */,
-				88675A622F5C44B000FB528E /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		88675A622F5C44B000FB528E /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				88675A612F5C44B000FB528E /* couple_space.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +110,7 @@
 			mainGroup = 88675A582F5C44B000FB528E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 88675A622F5C44B000FB528E /* Products */;
+			productRefGroup = 88675A582F5C44B000FB528E;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
